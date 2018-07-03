@@ -1,28 +1,28 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://jason-tseng.com/</loc>
+        <loc>https://jason-tseng.github.io/</loc>
         <lastmod>2016-10-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://jason-tseng.com/about/</loc>
+        <loc>https://jason-tseng.github.io/about/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://jason-tseng.com/skills/</loc>
+        <loc>https://jason-tseng.github.io/skills/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://jason-tseng.com/portfolio/</loc>
+        <loc>https://jason-tseng.github.io/portfolio/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://jason-tseng.com/contact/</loc>
+        <loc>https://jason-tseng.github.io/contact/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
